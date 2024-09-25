@@ -30,17 +30,6 @@ Explore the live application here: [Google Docs Clone Live Demo](https://google-
 
 ## 🔋 Features
 
-📑 **Go To:**
-- [Technologies Used](#-technologies-used)
-- [Features](#-features)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [Contact](#-contact)
-- [Made By](#-made-by)
-- [Acknowledgments](#-acknowledgments)
-
 👉 **Authentication**: Secure user authentication via [GitHub](https://github.com/) using [NextAuth](https://next-auth.js.org/), managing sign-ins, sign-outs, and sessions.
 
 👉 **Collaborative Text Editor**: Multiple users can edit documents simultaneously with live updates, ensuring seamless collaboration.
